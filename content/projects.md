@@ -11,4 +11,4 @@ menu:
 ## 1. Audio Processing
 ### Приложение для быстрой голоса на основе нейросетей и DSP-эффектов. 
 * **Стек:** Python
-* **Ссылка:** [Репозиторий](https://github.com/d4shsk/AudioProcessing)
+* **Ссылка:** [Github](https://github.com/d4shsk/AudioProcessing)
